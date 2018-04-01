@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# reset del dispositivo
 from gpiozero import OutputDevice
 from time import sleep
 
